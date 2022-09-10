@@ -1,0 +1,56 @@
+Top 5 Popular Software Design Patterns in 2022:
+
+
+1- Creational/Singleton
+
+The sole purpose of a singleton/creational software design pattern is to create a single purpose instance. 
+Take an example of a calendar; it is a software program that can make only one instance of a class and does not allow other cases. 
+It uses a getInstance() to get the object.
+
+
+
+
+2- Decorator
+
+A decorator or structural design pattern is best when you need add-on class. For example, you start a pizza restaurant with two main types, margarita and double-cheese pizzas.
+ Once the customers start coming in, they demand add-ons like mushrooms, onions, and even some jalapeno. 
+So, your billing system is almost fried.
+
+Your IT guy creates a subclass for add-ons like jalapenos, onions, and mushrooms to save the day. 
+But, just when you think life is sorted, a competitor opens a new restaurant on the opposite side of the street with subclasses for corns, olives, etc. 
+
+With a new competitor, the number of subclasses you will need to create an effective billing system can go overboard. 
+Think of creating 300 plus subclasses, and the level of coding behind it. 
+The decorator pattern helps reduce the subclass count to around 16. 
+It also leverages the abstract component for the creation of the structural design.
+
+
+
+
+3- Command Design Pattern
+
+A command design pattern focuses on how different classes and objects behave mutually. 
+Because mutual behavior can affect the software system’s response to user requests, any loosely coupled action can disrupt the software’s functionality, and this pattern helps identify such errors. 
+
+A coupling between the class and the object helps determine the dependency. 
+Now a loose coupling will indicate non-dependency among class and object. 
+It introduces an invoke-command that helps execute the action dependant on a specific class. 
+For example, you want to order food, and the waiter will be your invoker to help you get the object(food).
+
+
+
+
+4- Factory Design Pattern
+
+One of the most popular design patterns used by software developers is a factory method. 
+It is a creational pattern that helps create an object without the user getting exposed to creational logic. 
+
+The only problem with a factory method is it relies on the concrete component. 
+What happens is when you use a factory method, there is no specific definition of class. 
+So, instead of the constructor class, Someclass is used. 
+Creating a new object is coupled with the concrete component that can have issues with such a class.
+
+
+
+
+5- The Observer Pattern

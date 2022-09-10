@@ -1,0 +1,27 @@
+Top 11 Python Frameworks in 2022
+
+Bottle
+Flask
+Django 
+Web2py
+AIOHTTP
+CherryPy
+Dash
+Falcon
+Growler
+UvLoop
+Pyramid 
+Sanic
+CubicWeb 
+TurboGears
+Hug
+MorePath
+
+
+-------------------------------------------------------
+
+
+c++ Frameworks
+
+But among all the available C++ frameworks, Qt framework is the best framework for C++ programming and its features are responsible for its ranking. 
+Qt framework for C++ developers is considered ideal for software development more than web and games development.

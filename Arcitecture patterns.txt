@@ -1,0 +1,72 @@
+Layered pattern
+
+General desktop applications.
+E commerce web applications.
+
+
+
+Client-server pattern
+
+Online applications such as email, document sharing and banking.
+
+
+
+Master-slave pattern
+
+In database replication, the master database is regarded as the authoritative source, and the slave databases are synchronized to it.
+Peripherals connected to a bus in a computer system (master and slave drives).
+
+
+
+Pipe-filter pattern
+
+Compilers. The consecutive filters perform lexical analysis, parsing, semantic analysis, and code generation.
+Workflows in bioinformatics.
+
+
+
+
+Broker pattern
+
+Message broker software such as Apache ActiveMQ, Apache Kafka, RabbitMQ and JBoss Messaging.
+
+
+
+Peer-to-peer pattern
+
+File-sharing networks such as Gnutella and G2)
+Multimedia protocols such as P2PTV and PDTP.
+Cryptocurrency-based products such as Bitcoin and Blockchain
+
+
+
+
+Event-bus pattern
+
+Android development
+Notification services
+
+
+
+
+Model-view-controller pattern
+
+Architecture for World Wide Web applications in major programming languages.
+Web frameworks such as Django and Rails.
+
+
+
+Blackboard pattern
+
+Speech recognition
+Vehicle identification and tracking
+Protein structure identification
+Sonar signals interpretation.
+
+
+
+Interpreter pattern
+
+Database query languages such as SQL.
+Languages used to describe communication protocols.
+
